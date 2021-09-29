@@ -15,6 +15,8 @@ node index.js
 
 
 Error en diccionario contador de respuestas afirmativas
+
+base de datos utilizada: sqlite3
 ```bash
 cd 5
 python index.py
