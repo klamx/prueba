@@ -13,4 +13,11 @@ cd 4
 node index.js
 ```
 
+
+Error en diccionario contador de respuestas afirmativas
+```bash
+cd 5
+python index.py
+```
+
 <b> En el enunciado del punto 3 hay un error </b>
