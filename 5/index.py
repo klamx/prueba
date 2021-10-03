@@ -91,6 +91,7 @@ def nuevo_objeto(respuestas, nombre):
                 str(respuestas[item][2]),
             ),
         )
+        
 
         con.commit()
 
